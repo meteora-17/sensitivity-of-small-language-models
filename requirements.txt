@@ -1,0 +1,11 @@
+transformers
+datasets
+peft
+accelerate
+sentence-transformers
+evaluate
+google-generativeai
+rouge_score
+scikit-learn
+numpy
+torch
